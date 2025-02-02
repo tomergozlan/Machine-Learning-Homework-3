@@ -1,24 +1,24 @@
-# Machine Learning - Homework 3  
+# 📚 Machine Learning - Homework 3  
 **Ariel University**  
 **Course:** Machine Learning  
 
 ---
 
-## ** Assignment Overview**  
+## **📌 Assignment Overview**  
 This assignment involves implementing **K-Nearest Neighbors (k-NN)** and **Decision Tree Algorithms** using the **Iris dataset**, specifically focusing on the **Versicolor and Virginica classes**, and using only the **second and third feature coordinates**.  
 
-### **Repository Structure**
+### **📂 Repository Structure**
 ```bash
- Machine-Learning-Homework-3
-├── README.md                      
-├── Machine Learning Homework 3.pdf 
-├── k-NN_and_DecisionTree.ipynb     
+📦 Machine-Learning-Homework-3
+├── 📄 README.md                      # Project documentation
+├── 📄 Machine Learning Homework 3.pdf # Assignment description
+├── 📄 k-NN_and_DecisionTree.ipynb     # Jupyter Notebook with implementation
 ```
 
 ---
 
-## **Part 1: K-Nearest Neighbors (KNN)**
-###  **Task Breakdown**
+## **📝 Part 1: K-Nearest Neighbors (KNN)**
+### 🔹 **Task Breakdown**
 1. **Dataset Preparation**  
    - Split dataset into **50% training set** and **50% test set**.  
 2. **KNN Classifier Implementation**  
@@ -32,8 +32,8 @@ This assignment involves implementing **K-Nearest Neighbors (k-NN)** and **Decis
 
 ---
 
-## ** Part 2: Decision Tree Implementation**
-### **Task Breakdown**
+## **📝 Part 2: Decision Tree Implementation**
+### 🔹 **Task Breakdown**
 1. **Decision Tree Construction**
    - Trees have **maximum depth = 3** (root, children, and leaf grandchildren).  
    - Each node either **becomes a leaf** or **splits based on a selected feature**.  
@@ -47,7 +47,7 @@ This assignment involves implementing **K-Nearest Neighbors (k-NN)** and **Decis
 
 ---
 
-## ** How to Run the Code**
+## **🛠️ How to Run the Code**
 1. **Open Jupyter Notebook**
    ```bash
    jupyter notebook k-NN_and_DecisionTree.ipynb
@@ -56,24 +56,24 @@ This assignment involves implementing **K-Nearest Neighbors (k-NN)** and **Decis
 
 ---
 
-## **Expected Output & Analysis**
+## **📊 Expected Output & Analysis**
 - **Classifier accuracy comparison for different k, p values.**  
 - **Decision tree visualizations for brute-force and entropy-based methods.**  
 - **Discussion on best hyperparameters, overfitting, and model generalization.**  
 
 ---
 
-## ** Submission Requirements**
+## **📌 Submission Requirements**
 - ✅ **Python code & Jupyter Notebook (`.ipynb`)**  
 - ✅ **Results output (graphs, tables, performance metrics)**  
 - ✅ **Analysis answers in `Machine Learning Homework 3.pdf`**  
 
 ---
 
-## ** Author**
+## **📌 Author**
 👤 **Tomer Gozlan**  
 🔗 GitHub: [@tomergozlan](https://github.com/tomergozlan)  
 
 ---
 
- **This project is part of the Ariel University Machine Learning Course.**
+📌 **This project is part of the Ariel University Machine Learning Course.**
